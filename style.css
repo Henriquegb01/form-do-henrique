@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+ 
+ html.body{
+    height: 100%;
+ } 
+
+.links1{
+   background-color: rgb(255, 255, 255);
+   text-align: bottom ;
+   line-height: 100px;
+   font-family: 'Lato', sans-serif;
+   font-family: 'Roboto Condensed', sans-serif;
+   font-family: 'Work Sans', sans-serif;
+   font-size: 25px;  
+} 
+
+.background1{ 
+   width: 700px;
+   text-align: justify ;
+   text-indent: 20px;
+   line-height: 100px;
+   font-family: 'Work Sans', sans-serif;
+   font-size: 55px;  
+   bottom: 200px; 
+   width: 100%; 
+   height: 500px;
+   background-color: rgb(138, 44, 226);
+} 
+
+.background2{
+   width: 100%; 
+   height: 400px;
+   background-color:rgb(255, 255, 255);
+} 
